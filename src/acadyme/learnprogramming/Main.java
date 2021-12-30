@@ -1,5 +1,8 @@
 package acadyme.learnprogramming;
 
+import exercise.DicimalComparator;
+import exercise.LeapYear;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -9,5 +12,6 @@ public class Main {
         int myMax = Integer.MAX_VALUE;
         System.out.println("Minimum = " + myMin);
         System.out.println("Maximum = " + myMax);
+        LeapYear.isLeapYear(2020);
     }
 }
