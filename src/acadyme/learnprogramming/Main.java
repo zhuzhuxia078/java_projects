@@ -1,6 +1,6 @@
 package acadyme.learnprogramming;
 
-import exercise.DicimalComparator;
+import exercise.DecimalComparator;
 import exercise.LeapYear;
 
 public class Main {
