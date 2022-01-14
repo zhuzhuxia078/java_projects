@@ -35,5 +35,6 @@ public class Main {
         // Check Wall
         Wall wall = new Wall(5,4);
         System.out.println("area = " + wall.getArea());
+
     }
 }
