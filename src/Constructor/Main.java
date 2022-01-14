@@ -30,5 +30,10 @@ public class Main {
         VipCustomer person3 = new VipCustomer("Tim", "tim@gmail.com", 200.00);
         System.out.println(person3.getName());
         System.out.println(person3.getEmailAddress());
+
+
+        // Check Wall
+        Wall wall = new Wall(5,4);
+        System.out.println("area = " + wall.getArea());
     }
 }
