@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/primitive.iml" filepath="$PROJECT_DIR$/primitive.iml" />
     </modules>
   </component>
