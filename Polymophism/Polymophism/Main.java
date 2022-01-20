@@ -1,3 +1,5 @@
+package Polymophism;
+
 class Movie {
     private String name;
 
@@ -16,7 +18,7 @@ class Movie {
 
 class Jaws extends Movie {
     public Jaws() {
-        super("Jaws");
+        super("Polymophism.Jaws");
     }
 
     public String plot() {
@@ -59,7 +61,7 @@ class StarWars extends Movie {
 
 class Forgetable extends Movie {
     public Forgetable() {
-        super("Forgetable");
+        super("Polymophism.Forgetable");
     }
 
     // no plot method
@@ -69,7 +71,7 @@ public class Main {
     public static void main(String[] args) {
         for (int i = 1; i < 11; i++) {
             Movie movie = randomMovie();
-            System.out.println("Movie # " + i +
+            System.out.println("Polymophism.Movie # " + i +
                     ": " + movie.getName() + "\n" +
                     "Plot: " + movie.plot() + "\n");
         }
