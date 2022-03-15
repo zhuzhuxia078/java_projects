@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Polymophism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Polymophism2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
